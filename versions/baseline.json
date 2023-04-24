@@ -1,6 +1,5 @@
 {
   "default": {
-    "beicode": { "baseline": "1.0.0", "port-version": 0 },
-    "beison": { "baseline": "1.0.0", "port-version": 0 }
+    "pocketpy": { "baseline": "0.9.9", "port-version": 0 }
   }
 }
